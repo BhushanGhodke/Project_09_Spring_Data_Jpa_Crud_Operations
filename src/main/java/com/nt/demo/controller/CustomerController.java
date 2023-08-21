@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.nt.demo.entity.Customer;
 import com.nt.demo.service.ICustomerService;
 
-
-@RestController
+// make a class as web contorller 
+@RestController 
 public class CustomerController {
 	
 		
